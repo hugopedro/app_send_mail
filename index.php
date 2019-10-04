@@ -10,7 +10,7 @@
 	<body>
 
 		<div class="container">  
-
+		<!--o py-3 é p de padding e y para usar margem ou padding, tanto na parte superior quanto na inferior;, tamanho 3-->
 			<div class="py-3 text-center">
 				<img class="d-block mx-auto mb-2" src="logo.png" alt="" width="72" height="72">
 				<h2>Send Mail</h2>

@@ -1,3 +1,0 @@
-index.php app sendMail:
-
-<div class="py-3 text-center"> => o py-3 é p de padding e y para usar margem ou padding, tanto na parte superior quanto na inferior;, tamanho 3
